@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, my name is Brendan Capuzzo and I am a Senior at Rensselaer Polytechnic Institute studying Computer & Systems Engineering and Computer Science with an expected graduation of December 2023. I am a passionate and inquisitive student actively seeking to expand my knowledge in several fields, including computer networking, electronic & computer hardware, and internet & software. I am eager to be a part of emerging digital innovations and contribute to the technology field with my programming and collaboration skills.
 
 <!--
 **bcapuzzo/bcapuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
